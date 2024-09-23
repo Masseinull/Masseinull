@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-#### I'm ***Mohammadhossein Arsalan***, currently student at ***Shahid Beheshti University***, studying Computer Engineering.
+#### I'm ***Mohammadhossein Arsalan***, graduated from ***Shahid Beheshti University***, studied Computer Engineering BSc.
 I want to put my projects and exercises here, hope you enjoy.😉
